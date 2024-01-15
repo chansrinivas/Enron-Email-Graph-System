@@ -10,7 +10,7 @@ The program employs techniques like Depth-First Search (DFS) to traverse the gra
   <img src="./sample.png" alt="Sample Screenshot" width="600">
 </p>
 
-You can get a copy of the Enron dataset via https://www.cs.cmu.edu/~./enron/enron_mail_20150507.tar.gz. This dataset is large (1.7GB), and is provided as a compressed tar.gz file. On a Unix or MacOS system, you can uncompress it using the following command from a Unix shell or MacOS Terminal:
+You can get a copy of the Enron dataset via https://www.cs.cmu.edu/~./enron/enron_mail_20150507.tar.gz. This dataset is large (1.7GB), and is provided as a compressed tar.gz file. On a Unix or MacOS system, you can uncompress it using the following command from a Unix shell or MacOS Terminal: <br>
 ```tar -xvzf enron_mail_20150507.tar.gz```
 
 
