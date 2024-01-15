@@ -10,6 +10,10 @@ The program employs techniques like Depth-First Search (DFS) to traverse the gra
   <img src="./sample.png" alt="Sample Screenshot" width="600">
 </p>
 
+You can get a copy of the Enron dataset via https://www.cs.cmu.edu/~./enron/enron_mail_20150507.tar.gz. This dataset is large (1.7GB), and is provided as a compressed tar.gz file. On a Unix or MacOS system, you can uncompress it using the following command from a Unix shell or MacOS Terminal:
+```tar -xvzf enron_mail_20150507.tar.gz```
+
+
 ## Main idea of the graph
 To represent the graph, an adjacency matrix has been utilized. This matrix provides a compact representation of the relationships between vertices. 
 Edges in the graph are created whenever there is an exchange of messages between two vertices. Each edge represents a communication link between the corresponding vertices. 
